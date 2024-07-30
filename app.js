@@ -9,3 +9,21 @@ function login(user){
         return false
     }
 }
+
+<<<<<<< HEAD
+function welcomeUser(name){
+    console.log(`welcome dear${name}`);
+}
+=======
+function forgetPassword(email){
+    if(email ==='mobinizadi@gmail.com'){
+        console.log('send password to your email');
+    }else{
+        console.log('not found user');
+    }
+}
+
+function setPassword(password){
+    console.log('set new password sucsses');
+}
+>>>>>>> forgetPassword
