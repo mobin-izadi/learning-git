@@ -3,5 +3,3 @@ function isLogin(name){
         return true
     }
 }
-
-console.log('test program');
