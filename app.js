@@ -9,3 +9,7 @@ function login(user){
         return false
     }
 }
+
+function welcomeUser(name){
+    console.log(`welcome dear${name}`);
+}
