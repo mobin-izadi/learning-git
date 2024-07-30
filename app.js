@@ -10,11 +10,9 @@ function login(user){
     }
 }
 
-<<<<<<< HEAD
 function welcomeUser(name){
     console.log(`welcome dear${name}`);
 }
-=======
 function forgetPassword(email){
     if(email ==='mobinizadi@gmail.com'){
         console.log('send password to your email');
@@ -26,4 +24,3 @@ function forgetPassword(email){
 function setPassword(password){
     console.log('set new password sucsses');
 }
->>>>>>> forgetPassword
