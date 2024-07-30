@@ -17,3 +17,7 @@ function forgetPassword(email){
         console.log('not found user');
     }
 }
+
+function setPassword(password){
+    console.log('set new password sucsses');
+}
