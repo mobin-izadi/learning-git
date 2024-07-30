@@ -9,3 +9,11 @@ function login(user){
         return false
     }
 }
+
+function forgetPassword(email){
+    if(email ==='mobinizadi@gmail.com'){
+        console.log('send password to your email');
+    }else{
+        console.log('not found user');
+    }
+}
