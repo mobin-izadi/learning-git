@@ -3,3 +3,4 @@ function isLogin(name){
         return true
     }
 }
+ console.log('mobin');
