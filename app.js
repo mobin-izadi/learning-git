@@ -4,3 +4,6 @@ function isLogin(name){
     }
 }
  console.log('mobin');
+
+function welcomeTOUser(name)=>{
+    console.log(`welcome ${name} dear`);}
