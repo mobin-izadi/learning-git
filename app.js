@@ -1,9 +1,10 @@
-function isLogin(name){
-    if(name ==='mobin'){
+function isLogin(name) {
+    if (name === 'mobin') {
         return true
     }
 }
- console.log('mobin');
+console.log('mobin');
 
-function welcomeTOUser(name)=>{
-    console.log(`welcome ${name} dear`);}
+function welcomeTOUser(name) {
+    console.log(`welcome ${name} dear`);
+}
