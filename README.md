@@ -1,8 +1,5 @@
 # About 👨‍💻
-<div style="display:flex;justify-content: center;
-">
-<img src="images/avatar.jpg">
-</div>
+![my profile](images/avatar.jpg)
 Hello 👋, this repo is `not for a special project`, it is just for practicing Github, which I am learning
 
 ```json
